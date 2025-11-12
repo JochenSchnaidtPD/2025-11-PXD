@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+
+# Intelli J
+.idea
+*.iml
+*.xml
+*/target/*
+
 # Log file
 *.log
 
