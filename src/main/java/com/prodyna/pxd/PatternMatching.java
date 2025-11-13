@@ -7,7 +7,7 @@ public class PatternMatching {
 
   /**
    * Statement -> no return value
-   * Works with primitives (except long), wrapper, enums, and String.
+   * Works with primitives (except long), wrapper and enums.
    * switch labels of the same type as selector
    * Fall through, default not required
    */
